@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 大敏的网站
+## 个人简历
+### 联系方式
+- 手机：（+49）01631775696
+- Email：damin.zuo@gmail.com
 
-You can use the [editor on GitHub](https://github.com/damin-zuo/damin.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+- 姓名：左思敏
+- 性别：女
+- 出生日期：1990/07/13
+- Github：http://github.com/damin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育
+- 博士/德国亚琛工大/医学院生物医学工程 2015/10-2021/06
+- 硕士/清华大学/医学院生物医学工程 2012/09-2015/07
+- 本科/西安交通大学/生命学院生物医学工程 2008/09-2012/07
 
-### Markdown
+### 工作经历
+- 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1 大敏的网站
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damin-zuo/damin.GitHub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
